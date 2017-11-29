@@ -1,3 +1,5 @@
+a. Make camera shake upon landing from a jump
+b. Start positioning props
 1. Item pickup/Put down
   - Make item have glow outline
   - hover in air at fixed distance in front of player
