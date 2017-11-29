@@ -1,0 +1,9 @@
+Account - Red Empire General Tory Fuller
+
+"General Rowan is planning to use an anti-matter bomb if The Republic doesn't stop their invasion of our territory. Please tell General Camilla. Don't tell her I said anything though."
+
+Place: Words from an Aide to General Rowan
+
+Options:
+1: Present as evidence with identity of person.
+2: Present as evidence without identity of person.
