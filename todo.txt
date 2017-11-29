@@ -1,0 +1,4 @@
+1. Item pickup/Put down
+  - Make item have glow outline
+  - hover in air at fixed distance in front of player
+2. Initiate dialogue with person
