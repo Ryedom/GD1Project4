@@ -1,0 +1,49 @@
+Background (only small parts of this will make it into the game) - Tensions have been high over the past months. The Red Empire of General Rowan is being encroached upon the by the invading forces of the Suverilan Republic. The situtation needed to be resolved fast, or there was going to be war as the Suverilan Republic was set to invade the inhabitted Red Empire system of Ranval. After agreeing to meet in an abandoned church on the neutral outpost planet TR-F9C, the two generals and their aides arrived at the location as a snowstorm was kicking up. For the majority of the negotiations, the two generals only served to enrage each other and soon decided that no further negotation would occur. However, the weather quickly became worse, and it looked as though negotiations would have to continue for just a bit longer.
+
+General Rowan Wills
+Traits: Charismatic, stubborn, short-sighted, distrusting
+Beliefs: The Red Empire is more important than anything else, General Camilla is foolish, a leader is nothing without aides, The Red Empire is a bastion of culture and economy that The Republic threatens to destroy.
+Options Decided Upon: Dropping the prepared illegal anti-matter bomb on Suverilan as The Republic has not agreed to avoid invasion.
+
+General Camilla Sprout
+Traits: Argumentative, angry, stubborn, distrusting, careful
+Beliefs: The Republic is a force for good, General Rowan is rational, aides are useless, The Empire is a dangerous actor and needs to be reigned in.
+Options Decided Upon: Assassinating General Rowan Wills, invading Ranval.
+
+The Red Empire is a heavily militant state run by its military, occupies five of the largest economic hubs in known space, occupies 15 habitable systems and holds 57 uninhabitable systems. Despite the requirement for all men and women must work in the military from ages 16 to 20, The Empire really is a nice place to live.
+
+The Suverilan Republic is an expansive and controlling empire that is run by a small set of elected officials. The Republic has over the past decade focused more on conquering other systems. While it does mostly let these conquered systems govern themselves, it does also impose some heavy restrictions upon information, goods, and travel. Overall though, a fair number of systems under the rule of The Republic have benefitted from their rule. The Republic occupies 63 habitable systems, one of which, Suverilan specifically, is one of the largest economic hubs in the galaxy, as well as occupying 41 uninhabitable systems. While The Republic's military is spread thin between all of its territories, the size of the naval fleet available for invasion is still quite threatening.
+
+Evidence/Claims/Interactables:
+Illegal anti-matter bomb claim - Received from an aide to General Rowan. Can be presented as evidence.
+Assassination claim - Received from an aide to General Camilla. Can be presented as evidence.
+Anti-poison pill - Found in a different aide to General Camilla's supplies either before or after the assassination claim is made. Can be put in General Rowan's coffee or General Camilla's coffee. Can be presented as evidence or not.
+
+Ending Possibilities:
+General Rowan is assassinated and Suverilan is destroyed:
+	Negotiations leaned towards
+	Escalation or Agreement: The Suverilan Republic backs down and the Red
+		Empire agrees not to use any more anti-matter weaponry, the United
+		Intragalactic Nations declares the Red Empire an enemy of peace.
+	Disagreement: The Red Empire and the Suverilan Republic declare war upon each other,
+		hundreds of millions of people die.
+General Rowan is assassinated:
+	A Suverilan Republic sympathizer comes into power immediately,
+		the Red Empire is annexed months later,
+		terrorism becomes rampant in the Suverilan Republic.
+Suverilan is destroyed:
+	Negotiations leaned towards
+	Escalation: The Suverilan Republic backs down and the Red Empire
+		agrees not to use any more anti-matter weaponry, the United Intragalactic
+		Nations declares the Red Empire an enemy of peace.
+	Agreement or Disagreement: add this whoops
+Nothing happens:
+	Negotiations leaned towards
+	Agreement: The Suverilan Republic takes Ranval and agrees
+		not to further encroach upon Red Empire territory if the
+		Red Empire ceases use of Suverilan Republic trade routes.
+		More conflict ensues later on, but it seems like war has been avoided for now.
+	Disagreement: The Suverilan Republic takes Ranval and continues to
+		encroach upon the Red Empire's territory.
+		A war is post-poned, but still seems inevitable.
+	Escalation: A war begins quickly after the negotiations and escalates quickly.

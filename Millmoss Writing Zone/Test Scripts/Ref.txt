@@ -1,0 +1,68 @@
+I:1-A|2-A|3-B
+	This script can be interrupted by item 1, 2, or 3. Item 1 leads to Script A, Item 2 leads to Script A, Item 3 leads to Script B.
+
+
+
+{
+	Marks the beginning of a critical section. Items will not affect anything until the critical section has ended.
+
+
+
+}
+	Marks the end of a critical section.
+
+
+
+K:A
+	Normally, a script should be returned to once it is exitted. This command means that Script A can not longer be returned to. If Script A cannot already be returned to, ignore this command.
+
+
+
+"General Joe":"Hello doggies!":5
+	General Joe says the following: Hello doggies!
+	The line lingers for 5 seconds
+
+
+
+>C
+	Go to script C.
+
+
+
+E+1
+	Add one to the Escalation counter which is stored somewhere. Same kind of thing for the rest of the listed +1 or -1 things.
+
+
+
+D+1
+	Disagreement +1
+
+
+
+A+1
+	Agreement +1
+
+
+
+E-1
+	Escalation -1. Escalation and similar numbers start at 2 and cannot go below 0.
+
+
+
+O+Item
+	Store "Item" in a table somewhere to be used for ending results.
+
+
+
+n:Something something this is a note
+	This is basically a comment.
+
+
+
+
+
+NOTES
+
+	If mutiple items are placed on the table, we should probably treat them like a queue. First item placed is first item dealt with.
+
+	If a script is exitted
