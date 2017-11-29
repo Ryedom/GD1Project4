@@ -1,0 +1,22 @@
+I:1-B|2-C|3-B
+{
+"General Joe":"Hello there General Bob.":2
+"General Bob":"Hi there General Joe.":2
+"General Joe":"I like dogs.":1.5
+"General Bob":"I do not like the dogs.":2
+"General Joe":"I am talking about dogs in general: not these here dogs within this room.":5
+"General Bob":"Well I am talking of cats now.":3
+"General Joe":"This is not what we agreed upon.":3
+"General Bob":"Okay.":1
+}E+1
+"General Joe":"Cats cats cats.":2
+"General Bob":"Cats are nice.":2
+"General Joe":"Yes they are.":2
+{
+"General Joe":"I lied: I do not like cats.":3
+"General Bob":"That is surprising.":2
+"General Joe":"No it is not.":1.5
+"General Bob":"I disagree and also concur.":3
+}D+1E+1
+>D
+n:If an item was placed on the table before ">D" was reached, the item would take precedent.
