@@ -4,7 +4,7 @@ I:1-B|2-C|3-B
 "General Bob":"Hi there General Joe.":2
 "General Joe":"I like dogs.":1.5
 "General Bob":"I do not like the dogs.":2
-"General Joe":"I am talking about dogs in general: not these here dogs within this room.":5
+"General Joe":"I am talking about dogs in general, not these here dogs within this room.":5
 "General Bob":"Well I am talking of cats now.":3
 "General Joe":"This is not what we agreed upon.":3
 "General Bob":"Okay.":1
