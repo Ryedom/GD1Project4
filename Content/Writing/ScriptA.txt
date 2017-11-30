@@ -13,7 +13,7 @@ I:1-B|2-C|3-B
 "General Bob":"Cats are nice.":2
 "General Joe":"Yes they are.":2
 {
-"General Joe":"I lied: I do not like cats.":3
+"General Joe":"I lied, I do not like cats.":3
 "General Bob":"That is surprising.":2
 "General Joe":"No it is not.":1.5
 "General Bob":"I disagree and also concur.":3
