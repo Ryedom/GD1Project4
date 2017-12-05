@@ -1,30 +1,15 @@
-I:??
+I:21-04|71-06
 "General Rowan":"And I don't want to spend another goddamn minute in this goddamn room!"
-"General Camilla":Well we're stuck here, so it's best we discuss our options further."
-"General Rowan":"Well I'd be happy to discuss them with a diplomat, not with some war-crazed maniac such as yourself!"
+"General Camilla":"Well we're stuck here, so it's best we discuss our options further."
+"General Rowan":"Well I'd be happy to discuss them with a diplomat, not with some war-crazed maniac!"
 "General Camilla":"I am simply doing my job General Rowan."
-"General Camilla":"I guarantee that this conversation would go no differently if I were a diplomat."
-"General Rowan":"Just like a Suverilian to play the innocent!"
+"General Camilla":"And I guarantee that this conversation would go no differently if I were a diplomat."
+"General Rowan":"Just like a Suverilian to play the determinism card!"
 {
-"General Rowan":"First you invade, then you act like you had no other option!"
-"General Camilla":"We do not invade, General Rowan; we occupy territories not needed by the foreign entities that claim them."
+"General Rowan":"First you invade, then you act like it was going to happen no matter what!"
+"General Camilla":"We do not invade, General Rowan; we occupy territories neglected by the foreign entities that lay claim to them."
 "General Rowan":"That's the same goddamn thing!"
-"General Camilla":"And what would you have me do. Call off our occupation of 'your' system?"
-"General Camilla":"Another general would simply take my place and we'd be right back where we started."
+"General Camilla":"So just because you're suddenly pretending to care about Ranval we should call of our occupation of it?"
 "General Rowan":"I don't want to hear another word of your bullshit."
-}D+1
-"General Camilla":"We should move past this pointless discussion of motivations."
-"General Rowan":"It's not pointless! It's-"
-"General Camilla":"Let's speak of peace."
-"General Rowan":"Don't interrupt me you fuckwad!"
-"General Camilla":"I am simply moving the conversation forward."
-"General Rowan":"You are moving this conversation up my ass!"
-"General Camilla":"General Rowan, can we please move beyond this?"
-"General Rowan":"Sure, if you back the fuck off of our territory."
-{
-"General Camilla":"Perhaps we can reach some sort of compromise there."
-"General Rowan":"Yeah. You leave our system alone. We don't attack you."
-"General Camilla":"Your insubstantial army is of no danger to us."
-"General Rowan":"That's what you think. You'd be surprised by the fighting spirit of an Imperial soldier."
-"General Camilla":"As it stands, you need to give us something substantial for us to demilitarize the systems near Ranval."
-"General Rowan":"And as I said earlier, The Red Empire owes you nothing!"
+}D,1
+>01

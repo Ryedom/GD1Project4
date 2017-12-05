@@ -1,0 +1,14 @@
+I:71-06|72-07
+"General Rowan":"Like we even consider you enough of a threat to warrant 'top secret weapons development'."
+"General Camilla":"I would not be surprised if you had stooped to such levels."
+"General Rowan":"What the hell's that supposed to mean?"
+"General Camilla":"It is well known by us and hopefully you that The Red Empire is somewhat lacking in military capability."
+"General Rowan":"If you think our troops aren't capable that will be a big mistake on your part."
+"General Camilla":"It's almost like you desire war with us General Rowan."
+{
+"General Rowan":"To be perfectly honest, it'd make me a happy man to see your troops utterly fail at fighting us."
+"General Camilla":"So you are as delusional as you are stupid. Good to know."
+"General Rowan":"You're the stupid one if you really think a war with us is gonna be easy."
+"General Camilla":"It will be easy if you're as irrational in war as you are in conversation."
+}E,3
+>09|10
