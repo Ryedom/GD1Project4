@@ -1,5 +1,5 @@
 n:please ignore this script for the most part, it's poorly written as hell and needs to be rewritten heavily
-I:91-12
+I:9-12
 {
 "General Camilla":"Oh my god.":2
 "General Rowan":"More lies from the negotiator I see.":3
@@ -24,4 +24,5 @@ I:91-12
 "General Camilla":"Conversation with this maniac is going to go not further.":4
 "General Camilla":"I want out of this room. Now.":3
 "Black Screen":"No further negotiations occured.":3
+>-1
 n:rewrite the hell out of this

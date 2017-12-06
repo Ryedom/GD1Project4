@@ -1,6 +1,6 @@
-I:21-04|71-06|91-12
+I:2-4|7-6|9-12
 {
-K:09
+K:9
 "General Rowan":"Yeah?":1
 "General Camilla":"If you don't retaliate. We will significantly demilitarize all border systems for the time being.":6
 "General Rowan":"How long is 'the time being' exactly? One year? Two years?":4
@@ -12,4 +12,4 @@ K:09
 }D,2|E,1
 "General Rowan":"Don't even try to claim the moral high ground!":3
 "General Rowan":"You know very well that those deaths will be on your hands as much as mine.":5
->03
+>3

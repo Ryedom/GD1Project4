@@ -1,4 +1,4 @@
-I:21-04|71-06|91-12
+I:2-4|7-6|9-12
 "General Camilla":"Let us move past this and speak of other things.":3
 "General Rowan":"I'm not finished yet!":2
 "General Camilla":"Let us attempt at speaking of peace again.":3
@@ -25,4 +25,4 @@ I:21-04|71-06|91-12
 "General Rowan":"What? You want to skip the insults so that we can talk about something else?":4
 "General Rowan":"As you just proved you won't discuss anything reasonably.":4
 "General Camilla":"I have a proposition for you.":3
->02
+>2

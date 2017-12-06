@@ -1,4 +1,4 @@
-I:71-06|72-07|91-12
+I:7-6|9-12
 "General Rowan":"Like we even consider you enough of a threat to warrant 'top secret weapons development'.":5
 "General Camilla":"I would not be surprised if you had stooped to such levels.":4
 "General Rowan":"What the hell's that supposed to mean?":3
@@ -11,4 +11,4 @@ I:71-06|72-07|91-12
 "General Rowan":"You're the stupid one if you really think a war with us is gonna be easy.":4
 "General Camilla":"It will be easy if you're as irrational in war as you are in conversation.":4
 }E,3
->09|10
+>9|10

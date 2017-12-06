@@ -1,4 +1,4 @@
-I:21-04|71-06|91-12
+I:2-4|7-6|9-12
 "General Rowan":"And I don't want to spend another goddamn minute in this goddamn room!":4
 "General Camilla":"Well we're stuck here, so it's best we discuss our options further.":4
 "General Rowan":"Well I'd be happy to discuss them with a diplomat, not with some war-crazed maniac!":5
@@ -12,4 +12,4 @@ I:21-04|71-06|91-12
 "General Camilla":"So just because you're suddenly pretending to care about Ranval we should cease our occupation of it?":6
 "General Rowan":"I don't want to hear another word of your bullshit.":4
 }D,1
->01
+>1

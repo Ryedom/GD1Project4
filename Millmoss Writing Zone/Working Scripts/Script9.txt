@@ -1,4 +1,4 @@
-I:71-07|91-12
+I:7-7|9-12
 "General Rowan":"Fine then, appeal to my reason.":3
 {
 "General Camilla":"Fine, how about this.":2
@@ -12,4 +12,4 @@ I:71-07|91-12
 }D,2|E,1
 "General Rowan":"Don't even try to claim the moral high ground!":3
 "General Rowan":"You know very well that those deaths will be on your hands as much as mine.":4
->03
+>3
