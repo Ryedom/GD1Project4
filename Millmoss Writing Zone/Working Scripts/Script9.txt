@@ -1,8 +1,8 @@
-I:71-06|72-07
+I:71-07|91-12
 "General Rowan":"Fine then, appeal to my reason.":3
 {
 "General Camilla":"Fine, how about this.":2
-"General Camilla":"If you surrender Ranval to us. We will significantly demilitarize all border systems for the time being.":6
+"General Camilla":"If you totally surrender Ranval to us. We will significantly demilitarize all border systems for the time being.":6
 "General Rowan":"Oh yeah? And how long is 'the time being' exactly? One year? Two years?":4
 "General Camilla":"I do not know how long it would be, but that can be discussed further at a later date.":5
 "General Rowan":"Well how about no. In the long run that's just a lose-lose. You and I both know that.":5
