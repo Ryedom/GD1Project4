@@ -1,8 +1,8 @@
 I:71-07
 {
-"General Camilla":"Is this true?"
-"General Rowan":"No, it's a bunch of bullshit."
-"General Camilla":"I'm not sure if I believe your word one way or the other."
-"General Camilla":"Well, either way, I'll need more than a flimsy UIN report before I take such a claim seriously."
+"General Camilla":"Is this true?":2
+"General Rowan":"No, it's a bunch of bullshit.":3
+"General Camilla":"I'm not sure if I believe your word one way or the other.":4
+"General Camilla":"Well, either way, I'll need more than a flimsy UIN report before I take such a claim seriously.":6
 }E,-1
 >08
