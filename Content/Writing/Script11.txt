@@ -1,0 +1,9 @@
+I:21-07
+"General Rowan":"You sure you're not the irrational one?":3
+"General Camilla":"Now we're back to insults I see.":3
+"General Rowan":"That wasn't an insult. Calling you a [insert good insult here] would be an insult.":5
+"General Camilla":"How dare you say such things!":3
+"General Rowan":"I'll say whatever I damn well please.":3
+"General Camilla":"That's it. I'm not dealing with you for another minute.":4
+"Black Screen":"General Camilla walked off to a far corner of the room and pretended that General Rowan wasn't there for the rest of the storm.":7
+>-1

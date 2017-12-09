@@ -1,0 +1,28 @@
+I:
+{
+"General Camilla":"Oh my god.":2
+"General Rowan":"More lies from the negotiator I see.":3
+"General Camilla":"You're insane. You really plan to use anti-matter weaponry on us.":4
+"General Rowan":"Even if, theoretically, I was planning to strike Ranval. Do you really think I would do it with illegal weaponry?":7
+"General Camilla":"I very much do.":2
+"General Rowan":"So what, you've been spooked by some nonsense and you're not gonna occupy Ranval now?":5
+"General Camilla":"I can't believe you would stoop so low General Rowan. To think that your people actually respect you.":6
+"General Camilla":"In light of this, I think we may have to restrategize.":4
+}E,-4|A,2
+"General Rowan":"That's not gonna change a thing and you know that.":4
+"General Camilla":"Do you have any idea how much blood you would have on your hands?":4
+"General Camilla":"Do you even care?":2
+"General Rowan":"Surprising words to hear coming from a person who's killed so many.":4
+"General Rowan":"And quite frankly, I don't care how many of your people I have to kill to stop you from taking our territory."6
+"General Camilla":"So you admit that the evidence presented here is the truth?":4
+"General Rowan":"I admit nothing, but if I did have such weaponry as I this negotiator claims I have, I would use it to full effect without a doubt.":7
+"General Camilla":"You're a monster.":2
+"General Rowan":"Perhaps, but you're as much as monster as I.":3
+"General Rowan":"I would be killing a fraction of those that you've killed in all your years of conquering systems.":6
+"General Rowan":"If anything it would be justice.":3
+"General Camilla":"Conversation with this maniac is going to go not further.":4
+"General Camilla":"I want out of this room. Now.":3
+"Black Screen":"General Camilla took her aides and guards with her out into the storm to get away from General Rowan.":6
+"Black Screen":"Several of her subordinates died as a result, but no more argument between her and General Rowan was going to occur.":7
+>-1
+n:rewrite the hell out of this
