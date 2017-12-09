@@ -4,3 +4,5 @@ b. Start positioning props
   - Make item have glow outline
   - hover in air at fixed distance in front of player -DONE
 2. Initiate dialogue with person
+3. Trigger for dialogue interrupt when item is placed on surface
+4. Integration with the tablet UI
