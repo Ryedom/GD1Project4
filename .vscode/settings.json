@@ -1,0 +1,12 @@
+{
+	"typescript.tsc.autoDetect": "off",
+	"files.exclude": {
+		"C:/Users/Ryan/Documents/GD1Project4/.git": true,
+		"C:/Users/Ryan/Documents/GD1Project4/.vscode": true,
+		"C:/Users/Ryan/Documents/GD1Project4/Content": true,
+		"C:/Users/Ryan/Documents/GD1Project4/Intermediate": true,
+		"C:/Users/Ryan/Documents/GD1Project4/Millmoss Writing Zone": true,
+		"C:/Users/Ryan/Documents/GD1Project4/Raw Assets": true,
+		"C:/Users/Ryan/Documents/GD1Project4/Saved": true
+	}
+}
