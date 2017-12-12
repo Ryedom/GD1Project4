@@ -1,17 +1,6 @@
-I:2-4|7-6|9-12
-"General Camilla":"Let us move past this and speak of other things.":3
-"General Rowan":"I'm not finished yet!":2
-"General Camilla":"Let us attempt at speaking of peace again.":3
-"General Rowan":"I said I wasn't finished speaking!":3
-"General Camilla":"Well I am trying to move the convesation beyond pointless argument.":4
-"General Rowan":"You're moving this conversation up my ass!":3
-"General Camilla":"General Rowan, why must you insist on using such petty and puerile insults?":4
-"General Rowan":"Look fuckwad, I'm not going to take you seriously until you take me seriously.":4
-"General Rowan":"For the past twenty minutes all you've done is duck and dodge around every single thing I try and talk about.":7
-"General Rowan":"Maybe if you actually listened to me we'd be getting somewhere.":4
-"General Camilla":"Fine, what do you want to discuss then?":3
-"General Rowan":"Let's talk about you moving your fleet somewhere far away from Ranval.":5
+I:0-18,24|1-19|2-4|3-20|4-21|5-22|6-23|7-6|8-13|9-12
 {
+K:18
 "General Camilla":"General Rowan, we're not going to leave Ranval be.":4
 "General Camilla":"You and your empire have long neglected it and it has suffered as a result.":4
 "General Camilla":"It is our duty to occupy it and save its people from your government's neglect.":4

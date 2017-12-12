@@ -1,0 +1,9 @@
+I:1-19|2-4|3-20|4-21|5-22|6-23|7-6|8-13|9-12
+{
+"General Rowan":"This article does make an excellent point.":3
+"General Camilla":"A point that has no relation to the current topic.":4
+"General Rowan":"It very much does relate. You were the one going on about how it's 'your duty' to 'save Ranval from the tyranny of The Red Empire'.":6
+"General Camilla":"That's not what I said.":3
+"General Rowan":"It's close enough to what you said.
+
+FINISH LATER this is an alt to 18

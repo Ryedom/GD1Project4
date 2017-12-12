@@ -1,6 +1,6 @@
-I:7-7|9-12
+I:0-24|1-19|2-4|3-20|4-21|5-22|6-23|7-7|8-13|9-12
 "General Rowan":"Have you ever considered that maybe I'm not irrational? That I'm not stupid?":4
-"General Rowan":"Don't you realize that it's your own stupid fucking attitude that pisses me off?":5
+"General Rowan":"Don't you realize that it's your own attitude that pisses me off?":4
 "General Camilla":"General Rowan, my 'attitude' is like what most diplomats' attitudes should be.":5
 "General Camilla":"Your inability to recognize that is what has gotten us so steeped in foolish argument.":5
 "General Rowan":"And maybe it wouldn't be 'foolish argument' if you weren't so goddamn set on invading Ranval.":5

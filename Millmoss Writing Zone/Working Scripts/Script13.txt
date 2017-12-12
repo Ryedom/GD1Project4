@@ -1,0 +1,8 @@
+I:2-4|7-6|9-15
+{
+"General Rowan":"Ok, that's strange, but I don't quite know what you're getting at here.":3
+"General Camilla":"I don't know either, quite frankly this evidence doesn't mean anything.":4
+"General Rowan":"Seems like we're in agreement on this.":2
+"General Rowan":"I'm surprised to say this myself, but we should really talk about something else.":4
+}A,2
+>16|17

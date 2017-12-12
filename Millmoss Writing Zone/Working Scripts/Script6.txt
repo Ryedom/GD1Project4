@@ -1,4 +1,4 @@
-I:2-7|9-12
+I:0-18,24|1-19|2-7|3-20|4-21|5-22|6-23|7-7|8-13|9-12
 {
 "General Rowan":"What the fuck is this?":2
 "General Camilla":"It appears to be a claim from one of your own subordinates that you plan to strike us with anti-matter weaponry.":7
