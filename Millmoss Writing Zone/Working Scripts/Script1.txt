@@ -1,4 +1,4 @@
-I:21-04|71-06
+I:2-4|7-6|9-12
 "General Camilla":"Let us move past this and speak of other things.":3
 "General Rowan":"I'm not finished yet!":2
 "General Camilla":"Let us attempt at speaking of peace again.":3
@@ -10,19 +10,19 @@ I:21-04|71-06
 "General Rowan":"For the past twenty minutes all you've done is duck and dodge around every single thing I try and talk about.":7
 "General Rowan":"Maybe if you actually listened to me we'd be getting somewhere.":4
 "General Camilla":"Fine, what do you want to discuss then?":3
-"General Rowan":"Let's talk about you moving your fleet somewhere far away from Ranval and not invading it.":5
+"General Rowan":"Let's talk about you moving your fleet somewhere far away from Ranval.":5
 {
 "General Camilla":"General Rowan, we're not going to leave Ranval be.":4
 "General Camilla":"You and your empire have long neglected it and it has suffered as a result.":4
 "General Camilla":"It is our duty to occupy it and save its people from your government's neglect.":4
 "General Rowan":"Yeah, and then how many people do you think are gonna die in the resulting war?":4
-"General Camilla":"That is in your hands General Rowan. If you let us occupy the system not a single soldier will die.":6
-"General Rowan":"And you really think that's gonna happen?":3
-"General Camilla":"I do not, as you have repeatedly proven yourself to be irrational.":4
+"General Camilla":"That is in your hands General Rowan. If you don't retaliate, then not a single soldier will die.":6
+"General Rowan":"And you really think we're not gonna retaliate?":3
+"General Camilla":"I expect you will, as you have repeatedly proven yourself to be irrational.":4
 "General Rowan":"Do you realize how crazy you sound right now? Do you really think that I'm the irrational one here?":6
 "General Camilla":"Let us avoid another exchange of insults General Rowan.":4
 }D,3|A,-2|E,2
 "General Rowan":"What? You want to skip the insults so that we can talk about something else?":4
 "General Rowan":"As you just proved you won't discuss anything reasonably.":4
 "General Camilla":"I have a proposition for you.":3
->02
+>2

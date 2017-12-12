@@ -2,7 +2,7 @@ Account - Suverilan Republic Sergeant Major Bob Roberts
 
 "Just between you and me, there was some kind of plan to assassinate General Rowan. I'm not sure if General Camilla went through with it or not though. Sorry, I don't know any details either."
 
-Place: Words from an Aide to General Camilla if Agreement is above 3.
+Place: Words from an Aide to General Camilla if Agreement is above 0.
 
 Options:
 1: Present as evidence.

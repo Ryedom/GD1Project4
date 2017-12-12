@@ -5,5 +5,4 @@ Account - Red Empire General Tory Fuller
 Place: Words from an Aide to General Rowan if Escalation is below 5.
 
 Options:
-1: Present as evidence with identity of person.
-2: Present as evidence without identity of person.
+1: Present as evidence.
