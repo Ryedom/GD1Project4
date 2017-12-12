@@ -5,9 +5,5 @@ I:2-7|9-12
 "General Camilla":"How dare you say such things!":3
 "General Rowan":"I'll say whatever I damn well please.":3
 "General Camilla":"That's it. I'm not dealing with you for another minute.":4
-<<<<<<< HEAD
-"Black Screen":"General Camilla walked off to a far corner of the room and pretended that General Rowan wasn't there for the rest of the storm.":7
-=======
 "Black Screen":"No further negotiations occured.":3
->>>>>>> master
 >-1
