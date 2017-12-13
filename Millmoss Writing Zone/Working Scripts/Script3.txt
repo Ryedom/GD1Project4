@@ -1,10 +1,9 @@
-I:0-18,24|1-19|2-4|3-20|4-21|5-22|6-23|7-6|8-13|9-12
+I:0-18,24|1-19,25|2-4,7|3-20,26|4-21,28,27|5-22,29|6-23,30|7-6,7|8-13,14|9-12,14,15
 "General Camilla":"General Rowan. I do not have the power to stop this war from happening. Only you have that power."
 {
 "General Rowan":"Well I'm not gonna do that. I'm gonna make this the worst goddamn war you've ever fought in.":6
 "General Rowan":"I'm gonna make your people regret the day they decided to pick a fight with The Red Empire.":6
 "General Camilla":"Well if that's the case, we have nothing more to discuss.":4
-"Black Screen":"No further negotiations occured.":3
 }D,2|E,2
 >-1
 n:this is an end for now

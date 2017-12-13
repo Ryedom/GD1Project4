@@ -1,4 +1,4 @@
-I:8-13|9-12
+I:9-12,14,15
 {
 "General Camilla":"Oh my god.":2
 "General Rowan":"More lies from the negotiator I see.":3
@@ -22,5 +22,4 @@ I:8-13|9-12
 "General Rowan":"If anything it would be justice.":3
 "General Camilla":"Conversation with this maniac is going to go not further.":4
 "General Camilla":"I want out of this room. Now.":3
-"Black Screen":"No further negotiations occured.":3
 >-1

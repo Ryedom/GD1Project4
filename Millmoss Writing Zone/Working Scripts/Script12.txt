@@ -1,4 +1,4 @@
-I:2-4|7-6|8-14
+I:8-14
 {
 "General Rowan":"You sneaky son of a bitch."
 "General Rowan":"I figured meeting you here might be dangerous."
@@ -13,10 +13,9 @@ I:2-4|7-6|8-14
 "General Rowan":"I'll bet that's all part of your plan, and I don't like it one bit."
 }D,2|A,-5|E,4
 "General Rowan":"Unless the negotiator here has anything of immediate importance?"
-"General Camilla":"You can't just walk out of here. We're still negotiating."
+"General Camilla":"You can't just walk out of here. That storm is dangerous."
 "General Rowan":"I can and will, as the safety of everyone in this room is quite possibly in jeopardy."
 {
 "General Rowan":"Come on everyone. We're leaving."
-"Black Screen":"No further negotiations occurred."
 }
 >-1
