@@ -1,0 +1,9 @@
+Year 3863 (9 years ago) - Censored Article from The Suverilan Republic, Dangers of a Heavily Regulated Economy
+
+"This article may come across as a direct criticism of my own home nation, The Suverilan Republic, but it is not. This article is instead meant to be [...] It is not possible in such an economy to reach a sense of real fulfillment. I, as a person in such an economy, am unable to accomplish anything, have that thing attributed to me, and reap the benefits. I personally believe that this is unfair and that it is a person's right to own what they themselves have earned."
+
+Place: Received from an aide to General Camilla.
+Dialogue: "I've been scrounging the censored article database for something that might help, but this is all I could come up with. It's probably useless, I know, but I tried."
+
+Options:
+1: Present as evidence.

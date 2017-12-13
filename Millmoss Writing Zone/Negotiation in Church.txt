@@ -20,30 +20,30 @@ Assassination claim - Received from an aide to General Camilla. Can be presented
 Anti-poison pill - Found in a different aide to General Camilla's supplies either before or after the assassination claim is made. Can be put in General Rowan's coffee or General Camilla's coffee. Can be presented as evidence or not.
 
 Ending Possibilities:
-General Rowan is assassinated and Suverilan is destroyed:
+General Rowan is assassinated and Suverilan is destroyed: -1 TO ALLLLLLL
 	Negotiations leaned towards
-	Escalation or Agreement: The Suverilan Republic backs down and the Red
+	1Escalation or Agreement: The Suverilan Republic backs down and the Red
 		Empire agrees not to use any more anti-matter weaponry, the United
 		Intragalactic Nations declares the Red Empire an enemy of peace.
-	Disagreement: The Red Empire and the Suverilan Republic declare war upon each other,
+	2Disagreement: The Red Empire and the Suverilan Republic declare war upon each other,
 		hundreds of millions of people die.
 General Rowan is assassinated:
-	A Suverilan Republic sympathizer comes into power immediately,
-		the Red Empire is annexed months later,
+	3A Suverilan Republic sympathizer comes into power immediately,
+		the Red Empire is annexed years later,
 		terrorism becomes rampant in the Suverilan Republic.
 Suverilan is destroyed:
 	Negotiations leaned towards
-	Escalation: The Suverilan Republic backs down and the Red Empire
+	4Escalation: The Suverilan Republic backs down and the Red Empire
 		agrees not to use any more anti-matter weaponry, the United Intragalactic
-		Nations declares the Red Empire an enemy of peace.
-	Agreement or Disagreement: add this whoops
+		Nations declares the Red Empire an enemy of peace, but no nation is willing to stand against The Red 			Empire in war.
+	5Agreement or Disagreement: The UIN declares The Red Empire an enemy of peace and the Suverilan Republic begins a long war against The Red Empire with UIN backing.
 Nothing happens:
 	Negotiations leaned towards
-	Agreement: The Suverilan Republic takes Ranval and agrees
+	6Agreement: The Suverilan Republic takes Ranval and agrees
 		not to further encroach upon Red Empire territory if the
 		Red Empire ceases use of Suverilan Republic trade routes.
 		More conflict ensues later on, but it seems like war has been avoided for now.
-	Disagreement: The Suverilan Republic takes Ranval and continues to
+	7Disagreement: The Suverilan Republic takes Ranval and continues to
 		encroach upon the Red Empire's territory.
 		A war is post-poned, but still seems inevitable.
-	Escalation: A war begins quickly after the negotiations and escalates quickly.
+	8Escalation: A war begins quickly after the negotiations and escalates quickly.

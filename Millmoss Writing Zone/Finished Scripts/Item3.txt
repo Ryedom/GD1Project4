@@ -1,0 +1,9 @@
+Year 3872 (this year) - News Article from within The Suverilan Republic
+
+"General Camilla Sprout occuppied Ranval this morning in an unprecedented move. The oft ignored border system has long been neglected by The Red Empire and suffers almost total poverty as a result. With The Republic's occupation of the system, Ranval's people should see the financial prosperity and excellent living conditions that the rest of our nation sees."
+
+Place: Received from an aide to General Camilla.
+Dialogue: "I wish General Rowan would actually consider our side of things. Maybe if you could get him to read this he'd see reason?"
+
+Options:
+1: Present as evidence.

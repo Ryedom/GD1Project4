@@ -1,0 +1,8 @@
+I:0-18,24|1-19,25|2-4,7|3-20,26|4-21,28,27|5-22,29|6-23,30|7-6,7|8-13,14|9-12,14,15
+"General Rowan":"You sure you're not the irrational one?":3
+"General Camilla":"Now we're back to insults I see.":3
+"General Rowan":"That wasn't an insult. Calling you a wibble-nibbler would be an insult.":4
+"General Camilla":"How dare you say such things!":3
+"General Rowan":"I'll say whatever I damn well please.":3
+"General Camilla":"That's it. I'm not dealing with you for another minute.":4
+>-1
