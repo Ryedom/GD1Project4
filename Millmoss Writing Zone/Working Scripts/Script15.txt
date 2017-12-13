@@ -10,7 +10,6 @@ n:here the pill, still on the table, should fly into General Rowan's mouth or fa
 "General Camilla":"You're a fool General Rowan.":3
 "General Rowan":"But I won't be dead by poison either way will I?":3
 "General Rowan":"I think we're going to be leaving now, before you try to kill me some other way.":4
-"Black Screen":"No further negotiations occurred."
 }E,5|D,4|A,-4
 >-1
 n:no items can prevent this ending once this script is accessed

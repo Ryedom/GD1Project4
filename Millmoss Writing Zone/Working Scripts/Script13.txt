@@ -1,8 +1,9 @@
-I:2-4|7-6|9-15
+I:0-18,24|1-19,25|2-4,7|3-20,26|4-21,28,27|5-22,29|6-23,30|7-6,7|8-13,14|9-12,14,15
 {
 "General Rowan":"Ok, that's strange, but I don't quite know what you're getting at here.":3
 "General Camilla":"I don't know either, quite frankly this evidence doesn't mean anything.":4
 "General Rowan":"Seems like we're in agreement on this.":2
 "General Rowan":"I'm surprised to say this myself, but we should really talk about something else.":4
+K:12,14
 }A,2
 >16|17

@@ -1,1 +1,9 @@
-Once again, alt to 22. Leads to end
+I:0-18,24|1-19,25|2-4,7|3-20,26|4-21,28,27|5-22,29|6-23,30|7-6,7|8-13,14|9-12,14,15
+"General Camilla":"Why do you waste our time with such a trivial article?":4
+"General Rowan":"I have to agree.":2
+"General Rowan":"Even though I don't think there is much discuss if this warmonger refuses to listen to me.":5
+"General Camilla":"I am no warmonger, if anything you are the one pushing for war.":4
+"General Rowan":"Really? You're really deluded enough to believe that?":4
+"General Camilla":"And now we are just exchanging insults.":3
+"General Camilla":"I don't see any reason this conversation should go further.":4
+>-1
