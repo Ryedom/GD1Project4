@@ -1,8 +1,9 @@
 Year 3863 (9 years ago) - Article on the Dangers of Owning a Super-Dog
 
-"Super-dogs are cute, but they are very deadly. [...] Did you know that type-17 super-dogs have been genetically engineered to fly? [...] Did you know that type-5 super-dogs have fangs that secrete a poison that kills a person in exactly one hour? This poison is the same as has been used in many of the major assassinations in the past century as it has no flavor, color, or scent. Detecting type-5 super-dog poison is incredibly difficult and can take multiple years of analysis. [...] Did you know that approximately 15% of all deaths within the past decade can be attributed to non-military super-dogs?"
+"Super-dogs are cute, but they are very deadly. [...] Did you know that type-17 super-dogs have been genetically engineered to fly? [...] Did you know that type-5 super-dogs have fangs that secrete a poison that kills a person in exactly one hour? This poison is the same as has been used in many of the major assassinations in the past century as it has no flavor, color, or scent. Detecting type-5 super-dog poison is incredibly difficult and can take multiple years of analysis. [...] Did you know that approximately 0.37% of all deaths within the past decade can be attributed to non-military super-dogs?"
 
 Place: Being read by an aide to General Camilla.
+Dialogue: "I don't see why you'd need it, but okay. It's an interesting read at least."
 
 Options:
 1: Present as evidence.

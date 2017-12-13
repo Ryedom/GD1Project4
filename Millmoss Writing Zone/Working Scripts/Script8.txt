@@ -1,4 +1,4 @@
-I:7-6|9-12
+I:0-18|1-19|2-4|3-20|4-21|5-22|6-23|7-7|8-13|9-12
 "General Rowan":"Like we even consider you enough of a threat to warrant 'top secret weapons development'.":5
 "General Camilla":"I would not be surprised if you had stooped to such levels.":4
 "General Rowan":"What the hell's that supposed to mean?":3

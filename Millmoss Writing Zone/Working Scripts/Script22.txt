@@ -1,7 +1,13 @@
-I:0-18,24|1-19|2-4|3-20|4-21|5-22|6-23|7-6|8-13|9-12
+I:0-18,24|1-19,25|2-4|3-20,26|4-21,28,27|5-22,28|6-23,29|7-6|8-13|9-12
+"General Camilla":"Why do you waste our time with such a trivial article?":4
+"General Rowan":"I have to agree.":2
+"General Rowan":"While the discussion of the legality of super-dogs is always important, it really doesn't pertain to this meeting at all.":7
+"General Camilla":"However, a discussion of some sort of compromise is pertinent.":4
+"General Rowan":"You've got a compromise for me? Let me guess; it's a not a compromise at all.":5
+"General Camilla":"Maybe if you actually listened to it you'd find out.":4
 {
 K:9|16 and all comp
-"General Rowan":"Yeah?":1
+"General Rowan":"Alright, I'm all ears.":3
 "General Camilla":"If you don't retaliate. We will significantly demilitarize all border systems for the time being.":6
 "General Rowan":"How long is 'the time being' exactly? One year? Two years?":4
 "General Camilla":"I do not know how long it would be, but that can be discussed further at a later date.":5
@@ -12,4 +18,4 @@ K:9|16 and all comp
 }D,2|E,1
 "General Rowan":"Don't even try to claim the moral high ground!":3
 "General Rowan":"You know very well that those deaths will be on your hands as much as mine.":5
->3
+>03

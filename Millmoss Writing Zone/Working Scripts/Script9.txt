@@ -1,4 +1,4 @@
-I:7-7|9-12
+I:0-18|1-19|2-4|3-20|4-21|5-22|6-23|7-7|8-13|9-12
 "General Rowan":"Fine then, appeal to my reason.":3
 {
 "General Camilla":"Fine, how about this.":2
@@ -12,4 +12,11 @@ I:7-7|9-12
 }D,2|E,1
 "General Rowan":"Don't even try to claim the moral high ground!":3
 "General Rowan":"You know very well that those deaths will be on your hands as much as mine.":4
->3
+"General Camilla":"General Rowan. I do not have the power to stop this war from happening. Only you have that power."
+{
+"General Rowan":"Well I'm not gonna do that. I'm gonna make this the worst goddamn war you've ever fought in.":6
+"General Rowan":"I'm gonna make your people regret the day they decided to pick a fight with The Red Empire.":6
+"General Camilla":"Well if that's the case, we have nothing more to discuss.":4
+"Black Screen":"No further negotiations occured.":3
+}D,2|E,2
+>-1

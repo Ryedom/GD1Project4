@@ -1,0 +1,6 @@
+I:0-18,24|1-19,25|2-4|3-20,26|5-22,28|6-23,29|7-6|8-13|9-12
+"General Rowan":"I agree with this article entirely.":3
+"General Camilla":"And I disagree with it, let us return to the matter at hand.":4
+"General Rowan":"Is the matter at hand your agreement to leave Ranval?":4
+"General Camilla":"The matter at hand is a compromise."
+>2

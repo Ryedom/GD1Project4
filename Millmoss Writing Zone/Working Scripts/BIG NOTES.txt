@@ -1,2 +1,5 @@
-Many people within Ranval are Suverilan Republic sympathizers.
+FIX THE BIG BUG
 
+Spell check and look for any '[' and ']' brackets.
+
+Fix all I:'s, use Script 0's for reference

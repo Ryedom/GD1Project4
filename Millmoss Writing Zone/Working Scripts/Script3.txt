@@ -1,4 +1,4 @@
-I:2-4|7-6|9-12
+I:0-18,24|1-19|2-4|3-20|4-21|5-22|6-23|7-6|8-13|9-12
 "General Camilla":"General Rowan. I do not have the power to stop this war from happening. Only you have that power."
 {
 "General Rowan":"Well I'm not gonna do that. I'm gonna make this the worst goddamn war you've ever fought in.":6

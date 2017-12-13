@@ -1,0 +1,10 @@
+I:1-19|2-4|3-20|4-21|5-22|6-23|7-6|8-13|9-12
+"General Rowan":"This article does make an excellent point.":3
+"General Camilla":"A point that has no relation to the current topic.":4
+"General Rowan":"It does relate actually, you mentioned that we neglect Ranval, and maybe that's true.":5
+"General Rowan":"However, if that is your motive for occupying Ranval, than all argument related to how it would fare under your rule is fair game.":7
+"General Camilla":"Even if it is, such argument would be a waste of time.":4
+"General Camilla":"Neither of us are changing our minds on what type of government is better and that settles it.":5
+"General Rowan":"Alright, so will you actually listen to me now?":4
+"General Camilla":"Actually, I have a compromise, if you would be willing to listen.":4
+>2

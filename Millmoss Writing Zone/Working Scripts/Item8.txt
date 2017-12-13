@@ -5,7 +5,7 @@ This pill appears to have been made by a company within The Suverilan Republic's
 Place: Bag of an Aide to General Camilla
 
 Options:
-1: Put pill in General Rowan's coffee
-2: Put pill in General Camilla's coffee
-3: Eat pill
-4: Present as evidence
+1: Present as evidence
+2: Put pill in General Rowan's coffee
+3: Put pill in General Camilla's coffee
+4: Eat pill
