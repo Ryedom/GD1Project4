@@ -2,7 +2,7 @@ I:8-14
 {
 "General Rowan":"You sneaky son of a bitch."
 "General Rowan":"I figured meeting you here might be dangerous."
-"General Rowan":"I just didn't think for a moment that you'd actually try to asssassinate me."
+"General Rowan":"I just didn't think for a moment that you'd actually try to assassinate me."
 "General Camilla":"Whoever said I had a plan to assassinate you is lying."
 "General Camilla":"And why in the world would I do such a thing anyway?"
 "General Camilla":"With our military might we could have easily shot down your ship upon landing here."
