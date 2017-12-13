@@ -1,4 +1,4 @@
-I:71-06|72-07
+I:7-7|9-12
 "General Rowan":"Have you ever considered that maybe I'm not irrational? That I'm not stupid?":4
 "General Rowan":"Don't you realize that it's your own stupid fucking attitude that pisses me off?":5
 "General Camilla":"General Rowan, my 'attitude' is like what most diplomats' attitudes should be.":5
@@ -8,7 +8,8 @@ I:71-06|72-07
 "General Camilla":"We gave you a compromise earlier and you refused it. Quite frankly-":4
 {
 "General Rowan":"Compromise?! You call that a compromise???":3
-"General Rowan":"That's pulling a gun on a civilian and saying you won't shoot if they give you their money!":5
+"General Rowan":"That's as much a compromise as stealing someone's money, pointing a gun at them, and then saying 'Hey, don't try and take your money back ok?'":8
+"General Rowan":"You're insane if you think that's any sort of compromise!":4
 "General Camilla":"It's nothing like that General Rowan.":3
 "General Rowan":"It is VERY much like that!":3
 }D,3
@@ -16,5 +17,5 @@ I:71-06|72-07
 "General Camilla":"And quite honestly, I did not come here to be yelled at.":4
 "General Rowan":"Oh, so little baby doesn't wanna talk anymore because I yelled at them?":4
 "General Camilla":"I'm not taking another second of this buffoonery.":4
-"Black Screen":"The generals walked off to opposite sides of the room and waited the rest of the storm out in silence.":6
+"Black Screen":"No further negotiations occured.":3
 >-1
