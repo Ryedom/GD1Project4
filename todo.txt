@@ -1,8 +1,21 @@
 a. Make camera shake upon landing from a jump
 b. Start positioning props
 1. Item pickup/Put down - DONE
-  - Make item have glow outline
   - hover in air at fixed distance in front of player -DONE
 2. Initiate dialogue with person
 3. Trigger for dialogue interrupt when item is placed on surface
 4. Integration with the tablet UI
+
+
+-ADD ITEM DESCRIPTIONS TO STRUCTURE
+
+Tasks done:
+Player movement
+Camera shake from movement and breathing
+Item pickup and dropping
+Level design
+Asset importing + unpacking + positioning
+Collision generation + setting
+Dialogue interrupt trigger (upon putting tablet on table)
+Poison pill trigger
+Player control-side integration code for initiating aide conversations
