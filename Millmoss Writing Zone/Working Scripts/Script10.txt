@@ -17,5 +17,4 @@ I:0-18,24|1-19,25|2-4,7|3-20,26|4-21,28,27|5-22,29|6-23,30|7-6,7|8-13,14|9-12,14
 "General Camilla":"And quite honestly, I did not come here to be yelled at.":4
 "General Rowan":"Oh, so little baby doesn't wanna talk anymore because I yelled at them?":4
 "General Camilla":"I'm not taking another second of this buffoonery.":4
-"Black Screen":"No further negotiations occured.":3
 >-1

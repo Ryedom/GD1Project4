@@ -17,5 +17,4 @@ K:21,28
 "General Rowan":"Generous? Did you really just say it was generous?!":4
 "General Camilla":"It's better than no compromise at all.":3
 "General Rowan":"Fuck you, I'm done. I'm not dealing with another minute of this.":4
-"Black Screen":"No further negotiations occurred.":3
 >-1
