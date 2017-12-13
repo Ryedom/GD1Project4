@@ -1,12 +1,11 @@
-n:please ignore this script for the most part, it's poorly written as hell and needs to be rewritten heavily
-I:9-12
+I:9-12,14,15
 {
 "General Camilla":"Oh my god.":2
 "General Rowan":"More lies from the negotiator I see.":3
-"General Camilla":"You're insane. You really plan to use anti-matter weaponry on us.":4
-"General Rowan":"Even if, theoretically, I was planning to strike Suverilan. Do you really think I would do it with illegal weaponry?":7
+"General Camilla":"You're insane.":4
+"General Rowan":"So you actually believe all this? Do you really think I'd be stupid enough to blow up and entire planet.":7
 "General Camilla":"I very much do.":2
-"General Rowan":"So what, you've been spooked by some nonsense and you're gonna give us Ranval back?":5
+"General Rowan":"So what, you've been spooked by some nonsense and now you're gonna give us Ranval back?":5
 "General Camilla":"I can't believe you would stoop so low General Rowan. To think that your people actually respect you.":6
 "General Camilla":"In light of this, I think we may have to restrategize.":4
 }E,-4|A,2
@@ -23,6 +22,4 @@ I:9-12
 "General Rowan":"If anything it would be justice.":3
 "General Camilla":"Conversation with this maniac is going to go not further.":4
 "General Camilla":"I want out of this room. Now.":3
-"Black Screen":"No further negotiations occured.":3
 >-1
-n:rewrite the hell out of this

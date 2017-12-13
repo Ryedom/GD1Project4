@@ -1,0 +1,21 @@
+I:0-18,24|1-19,25|2-4,7|3-20,26|4-21,28,27|5-22,29|6-23,30|7-6,7|8-13,14|9-12,14,15
+{
+"General Camilla":"This is exactly why we've occupied Ranval.":3
+"General Camilla":"The people of your nation suffer under a complete lack of economic restriction.":5
+"General Rowan":"Maybe, but that's no excuse for occupying Ranval!":4
+"General Rowan":"This article probably isn't even reputable. Soutan is a very prosperous system.":5
+"General Camilla":"You consider half the population living in shacks prosperous?":4
+"General Rowan":"It's their own fault they live in shacks. If they actually took the time to put effort into their work they would live much better lives.":7
+"General Camilla":"That's a lie and you know it.":3
+"General Rowan":"It's very much true.":2
+"General Camilla":"This is going nowhere. Let's move on.":3
+K:21,28
+}D,1
+"General Rowan":"Okay, move on to what?":2
+"General Rowan":"Because frankly, every single thing I've brought up you haven't moved an inch on.":5
+"General Camilla":"I offered a generous compromise earlier General Rowan.":4
+"General Rowan":"Generous? Did you really just say it was generous?!":4
+"General Camilla":"It's better than no compromise at all.":3
+"General Rowan":"Fuck you, I'm done. I'm not dealing with another minute of this.":4
+"Black Screen":"No further negotiations occurred.":3
+>-1
