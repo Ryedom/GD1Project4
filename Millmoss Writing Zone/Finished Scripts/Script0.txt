@@ -1,0 +1,27 @@
+I:0-18,24|1-19,25|2-4,7|3-20,26|4-21,28,27|5-22,29|6-23,30|7-6,7|8-13,14|9-12,14,15
+"General Rowan":"And I don't want to spend another goddamn minute in this goddamn room!":4
+"General Camilla":"Well we're stuck here, so it's best we discuss our options further.":4
+"General Rowan":"Well I'd be happy to discuss them with a diplomat, not with some war-crazed maniac!":5
+"General Camilla":"I am simply doing my job General Rowan.":3
+"General Camilla":"And I guarantee that this conversation would go no differently if I were a diplomat.":5
+"General Rowan":"Just like a Suverilian to play the determinism card!":4
+{
+"General Rowan":"First you invade our system, then you act like it was going to happen no matter what!":5
+"General Camilla":"We do not invade, General Rowan; we occupy territories neglected by the foreign entities that lay claim to them.":6
+"General Rowan":"That's the same goddamn thing!":3
+"General Camilla":"So just because you're suddenly pretending to care about Ranval we should cease our occupation of it?":6
+"General Rowan":"I don't want to hear another word of your bullshit.":4
+}D,1
+"General Camilla":"Let us move past this and speak of other things.":3
+"General Rowan":"I'm not finished yet!":2
+"General Camilla":"Let us attempt at speaking of peace again.":3
+"General Rowan":"I said I wasn't finished speaking!":3
+"General Camilla":"Well I am trying to move the conversation beyond pointless argument.":4
+"General Rowan":"You're moving this conversation up my ass!":3
+"General Camilla":"General Rowan, why must you insist on using such petty and puerile insults?":4
+"General Rowan":"Look fuckwad, I'm not going to take you seriously until you take me seriously.":4
+"General Rowan":"For the past twenty minutes all you've done is duck and dodge around every single thing I try and talk about.":7
+"General Rowan":"Maybe if you actually listened to me we'd be getting somewhere.":4
+"General Camilla":"Fine, what do you want to discuss then?":3
+"General Rowan":"Let's talk about you moving your fleet somewhere far away from Ranval.":5
+>1

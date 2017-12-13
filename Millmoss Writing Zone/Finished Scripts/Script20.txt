@@ -7,9 +7,8 @@ I:0-18,24|1-19,25|2-4,7|3-20,26|4-21,28,27|5-22,29|6-23,30|7-6,7|8-13,14|9-12,14
 "General Camilla":"I don't think there is a single person on Ranval that wouldn't benefit from our occupation.":5
 }D,1|A,1
 "General Rowan":"You can keep believing that buddy.":3
-"General Camilla":"And so you foolishly continue to ignore all reason that comes your way.":4
-"General Rowan":"You're the stupid one here. Did you really think I'd accept that stupid-ass 'compromise' of yours.":5
-"General Camilla":"I didn't expect you too, but I had to at least attempt to prevent what seems like inevitable war with you.":6
-"General Rowan":"Do you really believe the bullshit you're spewing? It's only inevitable because you won't budge on giving us our system back.":7
-"General Camilla":"I'll not be insulted by your vulgarity any longer. No more of this pointless discourse.":5
->-1
+"General Camilla":"Of course a fool like you wouldn't listen to reason.":4
+"General Rowan":"Try me.":1
+"General Camilla":"Fine, I have a compromise for you. Though I doubt you'll see reason on it.":4
+K:9,16,18,19,20,21,22,23
+>2

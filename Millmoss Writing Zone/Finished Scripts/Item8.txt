@@ -1,0 +1,11 @@
+Unlabeled Pill
+
+This pill appears to have been made by a company within The Suverilan Republic's military sector. The contents of the pill are not recognized by this personal UIN tablet's scanner.
+
+Place: Bag of an Aide to General Camilla
+
+Options:
+1: Present as evidence
+2: Put pill in General Rowan's coffee
+3: Put pill in General Camilla's coffee
+4: Eat pill

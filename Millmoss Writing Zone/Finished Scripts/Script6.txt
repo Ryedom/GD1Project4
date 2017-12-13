@@ -1,0 +1,19 @@
+I:0-18,24|1-19,25|2-4,7|3-20,26|4-21,28,27|5-22,29|6-23,30|7-6,7|8-13,14|9-12,14,15
+{
+"General Rowan":"What the fuck is this?":2
+"General Camilla":"It appears to be a claim from one of your own subordinates that you plan to strike us with anti-matter weaponry.":7
+"General Rowan":"Well I wouldn't believe a word of it.":3
+"General Camilla":"I myself am inclined to believe it; however, I will have my doubts until at least another source of evidence is presented.":7
+K:4
+}E,-4
+"General Rowan":"You really think I would make an attack with illegal weaponry on any system?":5
+"General Rowan":"The UIN would name us an enemy of galactic peace and-":4
+"General Camilla":"I concluded much earlier that you were irrational, so really such an action would fit the bill for you.":6
+"General Rowan":"Then why the hell don't you give us Ranval back then?":4
+{
+"General Rowan":"If I'm really so irrational, then wouldn't it be a terrible idea to still be occupying it?":5
+"General Camilla":"This is why it may now be in our best interest to cease our occupation of Ranval.":5
+"General Rowan":"As if I'll believe that for a second.":3
+"General Camilla":"However, as I said, I'll need more than one account to truly consider ending our occupation.":6
+}D,-2|A,2
+>11

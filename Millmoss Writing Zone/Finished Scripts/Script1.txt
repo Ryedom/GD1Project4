@@ -1,0 +1,17 @@
+I:0-18,24|1-19,25|2-4,7|3-20,26|4-21,28,27|5-22,29|6-23,30|7-6,7|8-13,14|9-12,14,15
+{
+"General Camilla":"General Rowan, we're not going to leave Ranval be.":4
+"General Camilla":"You and your empire have long neglected it and it has suffered as a result.":4
+"General Camilla":"It is our duty to occupy it and save its people from your government's neglect.":4
+"General Rowan":"Yeah, and then how many people do you think are gonna die in the resulting war?":4
+"General Camilla":"That is in your hands General Rowan. If you don't retaliate, then not a single soldier will die.":6
+"General Rowan":"And you really think we're not gonna retaliate?":3
+"General Camilla":"I expect you will, as you have repeatedly proven yourself to be irrational.":4
+"General Rowan":"Do you realize how crazy you sound right now? Do you really think that I'm the irrational one here?":6
+"General Camilla":"Let us avoid another exchange of insults General Rowan.":4
+K:18
+}D,3|A,-2|E,2
+"General Rowan":"What? You want to skip the insults so that we can talk about something else?":4
+"General Rowan":"As you just proved you won't discuss anything reasonably.":4
+"General Camilla":"I have a proposition for you.":3
+>2
