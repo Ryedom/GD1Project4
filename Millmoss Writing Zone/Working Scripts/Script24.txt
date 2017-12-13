@@ -8,7 +8,7 @@ I:0-18,24|1-19,25|2-4,7|3-20,26|4-21,28,27|5-22,29|6-23,30|7-6,7|8-13,14|9-12,14
 "General Rowan":"And that means that we should discuss this.":3
 "General Camilla":"A discussion of this article would go nowhere.":3
 "General Camilla":"Our nation is heavily communistic, yours is heavily capitalistic.":4
-"General Camilla":"Those are completely opposing idealogies, so we will get nowhere with a discussion of them.":5
+"General Camilla":"Those are completely opposing ideologies, so we will get nowhere with a discussion of them.":5
 }D,1|A,-2
 "General Rowan":"Well if you're so set on your way of things why did you even bother coming here?!":4
 "General Camilla":"I came to offer a compromise General Rowan.":3

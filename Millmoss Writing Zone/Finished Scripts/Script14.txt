@@ -1,0 +1,15 @@
+I:10-0
+{
+"General Rowan":"Wait a sec, that would mean...":3
+"General Camilla":"It means nothing obviously.":3
+"General Rowan":"You tried to poison me. No. You've poisoned me already, haven't you?":4
+"General Camilla":"Your paranoia makes you a fool General Rowan.":3
+n:here the pill should fly into General Rowan's mouth or face
+"General Rowan":"And to think I was about to leave without the antidote.":4
+"General Rowan":"Your plan would have fallen into place perfectly if it weren't for the negotiator going above and beyond their duty.":6
+"General Camilla":"You're a fool General Rowan.":3
+"General Rowan":"But I won't be dead by poison either way will I?":3
+"General Rowan":"I think we're going to be leaving now, before you try to kill me some other way.":4
+}E,5|D,4|A,-4
+>-1
+n:no items can prevent this ending once this script is accessed

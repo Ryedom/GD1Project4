@@ -1,0 +1,19 @@
+I:0-18,24|1-19,25|2-4,7|3-20,26|4-21,28,27|5-22,29|6-23,30|7-6,7|8-13,14|9-12,14,15
+{
+"General Rowan":"What was that earlier about the Republic being a better place to live?":4
+"General Rowan":"It seems to me that some people aren't entirely happy with things over there.":5
+"General Camilla":"A better place to live comes at a cost of course.":4
+"General Camilla":"But that better place to live is for everyone to share equally.":4
+"General Rowan":"I hate people like you.":2
+"General Camilla":"I dislike you too General Rowan, but that's not a point of contention.":4
+}A,1
+"General Rowan":"As far as I'm concerned, everything is a point of contention here.":4
+"General Camilla":"And this is why we keep getting sidetracked from the matter at hand.":4
+"General Rowan":"So you're blaming me for getting sidetracked? Everything here is your fault and you know that.":5
+"General Camilla":"This is not getting us anywhere.":3
+"General Rowan":"That's because you won't accept when I'm right!":4
+"General Camilla":"I'm trying to get us back to the topic at hand.":4
+"General Rowan":"This is the topic at hand!":3
+"General Camilla":"Fine. No more of this.":3
+"General Camilla":"You have proven yourself as stubborn as you are stupid and not worth my time.":5
+>-1

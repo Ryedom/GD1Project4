@@ -1,0 +1,9 @@
+Year 3835 (37 years ago) - The Red Empire: Is it really so great?
+
+"The Red Empire is often cited as an example of the great things a lack of economic restrictions can lead to. However, if you really look at it, things aren't as good as they seem. [...] systems often cited as being so prosperous are notably port systems. Other systems within The Red Empire paint a very different picture. Soutan for example is very close to a third-world system despite it being a short few light years away from Yalmit, The Red Empire's most prosperous system."
+
+Place: On the tablet of an aide to General Camilla.
+Dialogue: "This is an article I pulled up. Maybe it could help?"
+
+Options:
+1: Present as evidence.
